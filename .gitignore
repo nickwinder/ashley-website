@@ -1,0 +1,7 @@
+/.idea/
+/source/
+/clean_html.py
+/convert.py
+*.pyc
+__pycache__/
+.DS_Store
